@@ -1,0 +1,6 @@
+LightBulb100W,4.0,R
+LightBulb200W,6.0,R
+IronBoltM6,0.20,B
+IronBoltM9,0.30,B
+Hose30Feet,15.0,S
+Hose100Feet,20.0,S
